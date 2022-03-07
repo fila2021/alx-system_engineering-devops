@@ -1,4 +1,4 @@
-# Shell, permissions
+# Shell Permissions
 
 Project done during **Full Stack Software Engineering studies** at **at [ALX Africa](https://www.alxafrica.com//)**. It aims to learn about man pages, permissions (owner, group and other) of files and directories in **Shell**.
 
