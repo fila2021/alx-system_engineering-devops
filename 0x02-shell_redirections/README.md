@@ -1,4 +1,4 @@
-# Shell, I/O Redirections and filters
+# Shell, I/O Redirections and Filters
 
 In this project, I learned about using the `head`, `tail`, `find`, `wc`, `sort`,
 `uniq`, `grep`, and `tr` commands to redirect standard input and output and
