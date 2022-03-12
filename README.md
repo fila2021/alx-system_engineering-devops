@@ -1,4 +1,4 @@
-# System engineering & Devops
+# System Engineering and Devops
 
 Module of System engineering and Devops, carried out during Full Stack Software Engineering studies at [ALX Africa](https://www.alxafrica.com//).
 
@@ -15,3 +15,19 @@ All of the following folders are projects done during the studies:
 | [0x01-shell_permissions](https://github.com/fila2021/alx-system_engineering-devops/tree/master/0x01-shell_permissions) | It aims to learn about man pages, permissions (owner, group and other) of files and directories in Shell |
 | [0x02-shell_redirections](https://github.com/fila2021/alx-system_engineering-devops/tree/master/0x02-shell_redirections) | It aims to learn about man pages, permissions (owner, group and other) of files and directories in Shell |
 | [0x03-shell_variables_expansions](https://github.com/fila2021/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions) | It aims to learn about man pages, permissions (owner, group and other) of files and directories in Shell |
+
+# Author
+Filmawit Mekonen <[fila2021](https://github.com/fila2021)>
+
+## Acknowledgements :pray:
+
+All work contained in this project is progressive project covered  as part of the curriculum for
+alx-intranet.hbtn School. Alx-intranet.hbtn is an interjoined Online  full-stack software engineering program that prepares students for careers in the tech industry
+using project-based peer learning. For more information, visit
+[this link](https://www.alxafrica.com/).
+
+<p align="center">
+  <img
+    src="https://lh3.googleusercontent.com/vH1HTHhq7BIEuhIDuEc2Wrc2LgZigsJEWDR56ALuDFRZv9-jqCgHNHuBHIB-fLrrbwp7tJ8b7qeIJo0VtHUh=s0"
+    alt="ALX logo">
+</p>
